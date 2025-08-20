@@ -7,6 +7,7 @@ ownership:
     team: github/ecosystem-apps
     exec_sponsor: d-sharanya
     product_manager: hpsin
+    maintainer: nebiyou-gebretatios
     repo: https://github.com/github/github-app-js-sample
     sev3:
       issue: https://github.com/github/github-app-js-sample/issues
